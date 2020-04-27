@@ -1,0 +1,12 @@
+public enum Size {
+    ROYAL_FLUSH,
+    STRAIGHT_FLUSH,
+    FOUR_OF_A_KIND,
+    FLUSH,
+    FULL_HOUSE,
+    STRAIGHT,
+    THREE_OF_A_KIND,
+    TWO_PAIR,
+    ONE_PAIR,
+    HIGH_CARD
+}

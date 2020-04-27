@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 6ece541546d8ee743850b37277b61002
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6890681650044440632
+    second: Full-Deck-Playing-Cards4_0
+  - first:
+      213: 819942800708679033
+    second: Full-Deck-Playing-Cards4_1
+  - first:
+      213: 151752742674357720
+    second: Full-Deck-Playing-Cards4_2
+  - first:
+      213: 5298750710444625015
+    second: Full-Deck-Playing-Cards4_3
+  - first:
+      213: 1117382602648496783
+    second: Full-Deck-Playing-Cards4_4
+  - first:
+      213: 7866688018241388099
+    second: Full-Deck-Playing-Cards4_5
+  - first:
+      213: -4440779795133015071
+    second: Full-Deck-Playing-Cards4_6
+  - first:
+      213: 6285738144275888400
+    second: Full-Deck-Playing-Cards4_7
+  - first:
+      213: -8291518911433265338
+    second: Full-Deck-Playing-Cards4_8
+  - first:
+      213: 4680014416401549682
+    second: Full-Deck-Playing-Cards4_9
+  - first:
+      213: 2714334006599342023
+    second: Full-Deck-Playing-Cards4_10
+  - first:
+      213: 2574447978018818053
+    second: Full-Deck-Playing-Cards4_11
+  - first:
+      213: -6070213257709574037
+    second: Full-Deck-Playing-Cards4_12
+  - first:
+      213: 2846219496818186895
+    second: Full-Deck-Playing-Cards4_13
+  - first:
+      213: 2710563682774139665
+    second: Full-Deck-Playing-Cards4_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 233
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6a85b2f9c3224cb384f23eb68d5f4
+      internalID: 6890681650044440632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 685
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4624cf8382b847965933f15cdf293
+      internalID: 819942800708679033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 685
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e406c91931e84db8d1144b0ec6162
+      internalID: 151752742674357720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 685
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b6d631433fc143bdc15ed13535ffd
+      internalID: 5298750710444625015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_4
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 685
+        width: 233
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731eae83c314a441a2a91fa6c4ba3df
+      internalID: 1117382602648496783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 233
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaf4df12448f44a8f947e85bebda09
+      internalID: 7866688018241388099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 342
+        width: 235
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba91a8890725aa444aa26bbff29bd3ae
+      internalID: -4440779795133015071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 342
+        width: 235
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa48a0fd5f53e84c85c41e9a20e944d
+      internalID: 6285738144275888400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 342
+        width: 235
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667110f8afc6fa74ea929d1bbafcfb7c
+      internalID: -8291518911433265338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 342
+        width: 233
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1c8a901a14ff43a457f8b41ff3146
+      internalID: 4680014416401549682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 233
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cb25ac0341764ea56abc81548dc90
+      internalID: 2714334006599342023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b64b1830803714485f01f3bf8a3f4e
+      internalID: 2574447978018818053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e955d6bb1f6ae44dbc68d3ab616bb94
+      internalID: -6070213257709574037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 235
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68191d0c7df8c3b47b9d516bb5c083ab
+      internalID: 2846219496818186895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full-Deck-Playing-Cards4_14
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 233
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214c1c650af1c6409f46d766062fbdd
+      internalID: 2710563682774139665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
